@@ -43,7 +43,7 @@ import cz.uhk.pgrf.transforms.Vec3D;
  * 
  * @author Tomáš Novák
  * @version 2016
- */
+ **/
 
 public class Canvas {
 
@@ -81,7 +81,7 @@ public class Canvas {
 	public Canvas(int width, int height) {
 		/**
 		 * Nastavení okna
-		 */
+		 **/
 		frame = new JFrame();
 		frame.setTitle("PGRF1_Graphics");
 		frame.setResizable(true);
